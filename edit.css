@@ -2,5 +2,7 @@
     content: " se závazkem platby";
 		font-size: 10px;
 		display: block !important;
-    font-family: FontAwesome;
+		line-height: 5px;
+    		font-family: FontAwesome;
+		margin-bottom: 1.5em !important;
 }
