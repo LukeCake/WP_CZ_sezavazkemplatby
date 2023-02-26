@@ -1,0 +1,6 @@
+#place_order::after {
+    content: " se závazkem platby";
+		font-size: 10px;
+		display: block !important;
+    font-family: FontAwesome;
+}
